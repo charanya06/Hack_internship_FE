@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Hack_internship_FE/static/css/main.4e7a715c.css",
+    "main.js": "/Hack_internship_FE/static/js/main.e55035d8.js",
+    "static/js/787.ca846adf.chunk.js": "/Hack_internship_FE/static/js/787.ca846adf.chunk.js",
+    "static/media/img8.jpg": "/Hack_internship_FE/static/media/img8.0652def9bea5b68d8b3c.jpg",
+    "static/media/img7.jpg": "/Hack_internship_FE/static/media/img7.fb565a1121afbc5aa04f.jpg",
+    "static/media/img20.jpg": "/Hack_internship_FE/static/media/img20.7092c58d03566996ab67.jpg",
+    "static/media/img21.jpg": "/Hack_internship_FE/static/media/img21.e6c9f90b58856cceb6f3.jpg",
+    "static/media/img18.jpg": "/Hack_internship_FE/static/media/img18.0a7b7155831b1c4dc65f.jpg",
+    "static/media/img19.jpg": "/Hack_internship_FE/static/media/img19.a09ff1550434ad93364e.jpg",
+    "static/media/img4.jpg": "/Hack_internship_FE/static/media/img4.b01885b7cd73ddb776c5.jpg",
+    "static/media/img9.jpg": "/Hack_internship_FE/static/media/img9.13115246db8841e84b89.jpg",
+    "static/media/img5.jpg": "/Hack_internship_FE/static/media/img5.9e5fe543bddea3e63862.jpg",
+    "static/media/img13.jpg": "/Hack_internship_FE/static/media/img13.6e2c6f628b2e34979d79.jpg",
+    "static/media/img10.jpg": "/Hack_internship_FE/static/media/img10.d5ca68dff909f4bf4f4c.jpg",
+    "static/media/img17.jpg": "/Hack_internship_FE/static/media/img17.ab4b3fdb85554cd8228f.jpg",
+    "static/media/img16.jpg": "/Hack_internship_FE/static/media/img16.162ffa40fe9c52111bbc.jpg",
+    "static/media/img 12.jpg": "/Hack_internship_FE/static/media/img 12.14f91c3d922ed34655c0.jpg",
+    "static/media/img3.jpg": "/Hack_internship_FE/static/media/img3.152f72f6e6c178d38a6c.jpg",
+    "static/media/img6.jpg": "/Hack_internship_FE/static/media/img6.8940a00fb5cd7cfe98ff.jpg",
+    "static/media/img11.jpg": "/Hack_internship_FE/static/media/img11.88ba82bec42896683fc2.jpg",
+    "static/media/img15.jpg": "/Hack_internship_FE/static/media/img15.348c1479f1e3260cef0d.jpg",
+    "static/media/bg.jpg": "/Hack_internship_FE/static/media/bg.72fe9f724281102a9cdf.jpg",
+    "static/media/img2.jpg": "/Hack_internship_FE/static/media/img2.489121a6f7c4443fe2d6.jpg",
+    "static/media/img1.jpg": "/Hack_internship_FE/static/media/img1.46043b91fba57b5ac79a.jpg",
+    "static/media/icon1.jpg": "/Hack_internship_FE/static/media/icon1.89a6e2769ca1ab1147b9.jpg",
+    "static/media/dwnldIcon.jpg": "/Hack_internship_FE/static/media/dwnldIcon.3341e11f2a9034581b57.jpg",
+    "index.html": "/Hack_internship_FE/index.html",
+    "main.4e7a715c.css.map": "/Hack_internship_FE/static/css/main.4e7a715c.css.map",
+    "main.e55035d8.js.map": "/Hack_internship_FE/static/js/main.e55035d8.js.map",
+    "787.ca846adf.chunk.js.map": "/Hack_internship_FE/static/js/787.ca846adf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e7a715c.css",
+    "static/js/main.e55035d8.js"
+  ]
+}
