@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Hack_internship_FE/static/css/main.4e7a715c.css",
-    "main.js": "/Hack_internship_FE/static/js/main.609b01ff.js",
+    "main.js": "/Hack_internship_FE/static/js/main.195f9887.js",
     "static/js/787.ca846adf.chunk.js": "/Hack_internship_FE/static/js/787.ca846adf.chunk.js",
     "static/media/img8.jpg": "/Hack_internship_FE/static/media/img8.0652def9bea5b68d8b3c.jpg",
     "static/media/img7.jpg": "/Hack_internship_FE/static/media/img7.fb565a1121afbc5aa04f.jpg",
@@ -28,11 +28,11 @@
     "static/media/dwnldIcon.jpg": "/Hack_internship_FE/static/media/dwnldIcon.3341e11f2a9034581b57.jpg",
     "index.html": "/Hack_internship_FE/index.html",
     "main.4e7a715c.css.map": "/Hack_internship_FE/static/css/main.4e7a715c.css.map",
-    "main.609b01ff.js.map": "/Hack_internship_FE/static/js/main.609b01ff.js.map",
+    "main.195f9887.js.map": "/Hack_internship_FE/static/js/main.195f9887.js.map",
     "787.ca846adf.chunk.js.map": "/Hack_internship_FE/static/js/787.ca846adf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e7a715c.css",
-    "static/js/main.609b01ff.js"
+    "static/js/main.195f9887.js"
   ]
 }
