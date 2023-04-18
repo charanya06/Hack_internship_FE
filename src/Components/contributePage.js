@@ -157,7 +157,7 @@ const ContributePage = () => {
       <div class="container" />
       <div class="row" />
       <div class="col-md-6">
-        <p>&copy; HACK 2021</p>
+        <p>&copy; HACK 2023</p>
       </div>
       <div class="col-md-6 text-right" />
       <p>Subscribe to our newsletter:</p>
