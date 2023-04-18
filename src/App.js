@@ -11,10 +11,10 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" exact element={<MainPage/>} />
-        <Route path="/home" exact element={<HomePage/>} />
-        <Route path="/library" exact element={<LibraryPage/>} />
-        <Route path="/contribute" exact element={<ContributePage/>} />
+        <Route path="/Hack_internship_FE" exact element={<MainPage/>} />
+        <Route path="/Hack_internship_FE/home" exact element={<HomePage/>} />
+        <Route path="/Hack_internship_FE/library" exact element={<LibraryPage/>} />
+        <Route path="/Hack_internship_FE/contribute" exact element={<ContributePage/>} />
       </Routes>
     </Router>
     
